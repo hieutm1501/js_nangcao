@@ -156,3 +156,5 @@ if(team1 > team2){
 //      Tỉ lệ thắng của Borrussia Dortmund: 6.5
 //     Lấy ra tên đội bóng trực tiếp từ object 'game', bạn không nên "hardcode" tỉ lệ
 //     thắng của mỗi đội (ngoại trừ trường hợp 2 đội hòa nhau)
+
+
