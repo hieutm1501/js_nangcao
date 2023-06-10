@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "productName": "iPhones",
+      "price": "1000",
+      "desc": "aaa",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/x/i/xiaomi-12t-den_2.jpg",
+      "id": 1
+    },
+    {
+      "price": "2000",
+      "id": 2,
+      "productName": "xiaoMi",
+      "desc": "ccc",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/x/i/xiaomi-12t-den_2.jpg"
+    },
+    {
+      "price": "3000",
+      "id": 3,
+      "productName": "samsung",
+      "desc": "bbb",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/a/samsung_galaxy_z_fold_4-7.jpg"
+    },
+    {
+      "productName": "asussss",
+      "price": "4000",
+      "desc": "abc",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/v/dvfdgty_5_.jpg",
+      "id": 4
+    }
+  ]
+}

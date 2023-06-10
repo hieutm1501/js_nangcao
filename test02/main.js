@@ -103,13 +103,6 @@ const edit = (id)=>{
 }
 document.querySelector("#btn-sua").addEventListener("click",edit)
 
-
-// const xoa = (id)=>{
-//     fetch(`https://63e9cf1be0ac9368d6449b9d.mockapi.io/menu/${id}`,{
-//         method:"DELETE"
-//     })
-// }
-
 const removeUser = (id) => {
     fetch(`https://63e9cf1be0ac9368d6449b9d.mockapi.io/menu/${id}`,{
         method:"DELETE"
